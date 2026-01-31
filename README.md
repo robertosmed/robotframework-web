@@ -19,10 +19,8 @@
 ## 🧩 Requisitos
 
 - Python 3.11 instalado
-- Git (opcional)
-- Windows PowerShell (ou CMD)
 
-Observadas dependências: Robot Framework, RobotFramework-Browser (Playwright), RobotFramework-Requests, Pabot. Elas estão listadas em `requirements.txt`.
+- Dependências: Robot Framework, RobotFramework-Browser (Playwright), RobotFramework-Requests, Pabot. Elas estão listadas em `requirements.txt`.
 
 ---
 
